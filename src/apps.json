@@ -12464,6 +12464,16 @@
       },
       "website": "http://webpack.github.io"
     },
+    "Webzi": {
+      "cats": [
+        1
+      ],
+      "icon": "webzi.svg",
+      "meta": {
+        "generator": "Webzi.ir Website Builder"
+      },
+      "website": "https://webzi.ir"
+    },
     "wpCache": {
       "cats": [
         23
